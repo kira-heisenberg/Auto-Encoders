@@ -12,3 +12,6 @@ https://challenge2018.isic-archive.com/task3/training/
 
 For this cifar-10 is considered and trained for Epochs = 100,batch size = 250,learning rate= 0.00001,Adams optimizer
 
+![alt text](https://github.com/saiky-cheeku/Auto-Encoders/blob/master/ae_out.png)
+
+    
