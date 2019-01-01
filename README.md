@@ -1,4 +1,4 @@
-# classification of skin cancer images using pretrained layers of autoencoders
+# why autoencoders?
 
 Autoencoders are a very good classifiers when it comes to classifing medical images as datasets are very small there is a significant advantage of using its pretrained layers as it is a unsupervised learning.
 
@@ -29,15 +29,6 @@ python ae_cifar.py
 ```
 
 ![alt text](https://github.com/saiky-cheeku/Auto-Encoders/blob/master/cifar_output.png)
-
-### For classification of skin cancer
-
-```bash
-python main_git.py
-```
-### results of training on skin cancer
-
-
 
 
     
